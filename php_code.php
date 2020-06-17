@@ -1,4 +1,4 @@
 <?php
-printf("Hello World!);
-printf("Hope all are fine");
+print("Hello World!");
+print("Hope all are fine");
 ?>
